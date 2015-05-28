@@ -1,0 +1,269 @@
+a:hover,
+
+.sf-menu li span,
+
+.ch-info h2,
+
+.ch-info a,
+
+.about_text p, .about_text2 p,
+
+.specialize a i,
+
+.about_testimonial p,
+
+.sf-menu li li a:hover,
+
+.social_icon.footer ul li a i:hover,
+
+.single_post ul li a,
+
+.single_post ul li p span,
+
+.single_post .tags li a:hover,
+
+.author_about a,
+
+.single_post .comments h3 a:hover,
+
+.sidebar_post span a,
+
+.page_error h1 i,
+
+.tabs a,
+
+.tooltip-hover a,
+
+.lead a,
+
+.flat-mega-menu > ul > li:hover > a,
+
+.flat-mega-menu .drop-down li:hover > a,
+
+.flat-mega-menu .drop-down li i,
+
+.flat-mega-menu .search-bar:hover i,
+
+.flat-mega-menu .login-form:hover i,
+
+.items-blog h4 a,
+
+.single-post a{
+
+	color: #ffd700;
+
+}
+
+.color-font{
+
+	color: #fff !important;
+
+}
+
+.color-font-black{
+
+	color: #000 !important;
+
+}
+
+.color,
+
+#theme-options .title,
+
+.info_hover,
+
+.form-contact input[type="submit"],
+
+.btn-default:hover,
+
+.btn-primary:hover,
+
+.btn-default:focus,
+
+.single_post .reply:hover,
+
+.form_contact input[type="submit"],
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover,
+
+.pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus,
+
+.flat-mega-menu .search-bar ul input[type=submit],
+
+.flat-mega-menu .login-form input[type=submit],
+
+.tags li a{
+
+	background-color: #ffd700;
+
+}
+
+.contact_us .btn-default,
+
+.btn-primary, .btn-primary:hover{
+
+	background-image: linear-gradient(to bottom, #ffd700 0%, #ffd700 100%);
+
+}
+
+.btn-primary, .btn-primary:hover,
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover,
+
+.pagination > .active > a:focus, .pagination > .active > span:focus{
+
+	border-color: #ffd700;
+
+}
+
+.border_services {
+
+	border-bottom: 1px solid #ffd700;
+
+}
+
+.divider_light,
+
+.about_testimonial,
+
+.divider-dark-color{
+
+	border: 1px solid #ffd700;
+
+}
+
+
+
+.social_icon ul li,
+
+.border_right{
+
+	border-right: 1px solid #ffd700;
+
+}
+
+.divider-color-bottom{
+
+	border-bottom: 1px solid #ffd700 !important;
+
+}
+
+
+
+.pattern_top{
+
+	background: url(pattern_top.png) repeat-x;
+
+}
+
+.pattern_bottom{
+
+	background: url(pattern_bottom.png) repeat-x;
+
+}
+
+
+
+.pattern-top-light{
+
+	background: url(../light/pattern_top.png) repeat-x !important;
+
+}
+
+.pattern-bottom-light{
+
+	background: url(../light/pattern_bottom.png) repeat-x !important;
+
+}
+
+
+
+.pattern-top-dark{
+
+	background: url(../dark/pattern_top.png) repeat-x !important;
+
+}
+
+.pattern-bottom-dark{
+
+	background: url(../dark/pattern_bottom.png) repeat-x !important;
+
+}
+
+
+
+.accordion-trigger.active, .accordion-trigger:hover {
+
+	background: #ffd700 url(../../../../img/toggle.png) no-repeat right -69px;
+
+}
+
+.accordion-trigger.active, .accordion-trigger:hover {
+
+	background: #ffd700 url(../../../img/toggle.png) no-repeat right -69px;
+
+}
+
+.flat-mega-menu > ul > li{
+
+	border-left-color: #ffd700;
+
+}
+
+.flat-mega-menu .social-bar ul,
+
+.flat-mega-menu .drop-down{
+
+	border-bottom-color: #ffd700;
+
+}
+
+
+
+.flat-mega-menu ul.collapse > li{
+
+	border-left-color: #ffd700;
+
+}
+
+.flat-mega-menu .social-bar ul,
+
+.flat-mega-menu .drop-down{
+
+	border-bottom-color: #ffd700;
+
+}
+
+.menu-right .search-bar form {
+
+ 	border-bottom-color: #ffd700;
+
+ }
+
+ .menu-right .search-bar form input[type=submit] {
+
+ 	background-color: #ffd700;
+
+}
+
+.menu-right li {
+
+	border-left: 1px solid #ffd700;
+
+}
+
+.comment-form input[type=submit], aside .widget form input[type=submit], .item-list ul.pager li.pager-current {
+
+	background-color: #ffd700;
+
+}
+
+.modal-body form input[type=submit], section form input[type=submit] {
+
+	background-color: #ffd700;
+
+}
+
+.color-light li.search-result h3 a {
+  color: #ffd700;
+}
