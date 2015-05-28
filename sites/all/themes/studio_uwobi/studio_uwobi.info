@@ -8,38 +8,6 @@ screenshot = 'screenshot.png'
 stylesheets[screen][] = css/style.css
 
 
-; Add a script
-
-scripts[] = js/modernizr/modernizr.js
-scripts[] = js/jquery.js
-scripts[] = js/fancybox/jquery.fancybox.js
-scripts[] = js/animations/wow.js
-scripts[] = js/totop/jquery.ui.totop.js
-scripts[] = js/accordion/accordion.js
-scripts[] = js/scroll/jquery.nicescroll.js
-scripts[] = js/scroll/smooth-scroll.js
-scripts[] = js/scroll/jquery.mCustomScrollbar.concat.min.js
-scripts[] = js/carousel/carousel.js
-scripts[] = js/theme-options/theme-options.js
-scripts[] = js/theme-options/jquery.cookies.js
-scripts[] = js/slide/camera.js
-scripts[] = js/slide/jquery.easing.1.3.min.js
-scripts[] = js/slide-revolution/jquery.themepunch.tools.min.js
-scripts[] = js/slide-revolution/jquery.themepunch.revolution.js
-scripts[] = js/parallax/jquery.inview.js
-scripts[] = js/parallax/nbw-parallax.js
-scripts[] = js/parallax-func.js
-scripts[] = js/bg-moving-func.js
-scripts[] = js/bg-moving/jquery.bgscroll.js
-scripts[] = js/nav/jquery.sticky.js
-scripts[] = js/bootstrap/bootstrap.js
-scripts[] = js/main.js
-scripts[] = js/slider-func.js
-scripts[] = js/video/jquery.backgroundvideo.min.js
-scripts[] = js/video-func.js
-scripts[] = js/update.js
-
-
 ;Core regions
 
 regions[social_header_right] = 'Social header right'
